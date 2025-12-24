@@ -8,5 +8,7 @@
 </head>
 <body>
 	<h1>이곳은 제품 페이지 입니다.</h1>
+	
+	<a href="../index.jsp" />메인페이지</a>
 </body>
 </html>
