@@ -7,6 +7,8 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<a href="./index.jsp" />제형</a>
+	<a href="./jiseop/member.jsp" />지섭</a>
+	<br>
+	<a href="./hankyoung/product.jsp" />한경</a>
 </body>
 </html>
